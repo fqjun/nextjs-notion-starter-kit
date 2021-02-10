@@ -192,6 +192,14 @@ This table of contents uses the same logic that Notion uses for its built-in Tab
   </a>
 </p>
 
+## 目前发现问题
+
+- github的评论区只能在数据库中的文章生效
+- 数据库的表格模式无法进入到文章中去，且无法切换至其他格式
+- 自动目录无法生成
+- 页面图标还未更改
+- 本地加载页面有点慢
+
 ## License
 
 MIT © [Travis Fischer](https://transitivebullsh.it)
